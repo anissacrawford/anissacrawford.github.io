@@ -1,1 +1,20 @@
+*{
+  color: black;
+  background-color: #e7e7e7; 
+  font-family: "Roboto", sans-serif;
+}
+
+body{
+  margin: 10% 20%;
+}
+
+.name {
+  text-align: center;
+  border-style: solid; 
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
 
