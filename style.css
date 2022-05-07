@@ -23,6 +23,12 @@ h2 {
 
 img {
   border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 330px;
+  width: 400px;
 }
 
 
