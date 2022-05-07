@@ -11,6 +11,7 @@ body{
 .name {
   text-align: center;
   border-style: solid; 
+  padding-bottom: 10px;
 }
 
 h2 {
