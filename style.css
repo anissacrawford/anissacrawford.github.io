@@ -20,15 +20,17 @@ h2 {
 
 .bold{
   font-weight: bolder;
+}
+
+.center {
   text-align: center;
 }
 
 img {
   border-radius: 50%;
-  /* display: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%; */
   height: 330px;
   width: 400px;
 }
